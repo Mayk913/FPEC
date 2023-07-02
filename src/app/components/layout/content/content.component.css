@@ -1,0 +1,47 @@
+.login-container {
+    
+    background-color: orange;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+  
+  }
+  
+  .login-box {
+    font-family: 'Hind', sans-serif;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+  }
+  
+  .form-group {
+    font-family: 'Hind', sans-serif;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border: 0;
+    outline: solid 1px #4285f4;
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: #007bff;
+    cursor: pointer;
+  }
+  
+  
